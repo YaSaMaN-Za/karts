@@ -223,16 +223,18 @@ product-content h3 {
     body {
         padding: 40px 16px;
     }
-.container{
-    gap: 20px;
-}
 
-.product-card{
-    width: 260px;
-}
-.product-img{
-    height: 230px;
-}
+    .container {
+        gap: 20px;
+    }
+
+    .product-card {
+        width: 260px;
+    }
+
+    .product-img {
+        height: 230px;
+    }
 
 }
 
@@ -241,19 +243,22 @@ product-content h3 {
     body {
         padding: 30px 12px;
     }
-.container{
-   flex-direction: column;
-   align-items: center;
-}
 
-.product-card{
-    width: 100px;
-    max-width: 340px;
-}
-.product-img{
-    height: 230px;
-}
-.product-content{
-    font-size: 1rem;
-}
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product-card {
+        width: 100px;
+        max-width: 340px;
+    }
+
+    .product-img {
+        height: 230px;
+    }
+
+    .product-content {
+        font-size: 1rem;
+    }
 }
