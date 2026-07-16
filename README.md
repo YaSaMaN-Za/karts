@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./assets/images/photo.png" width="120" alt="Karts Logo">
-  <h1>Karts | Product Cards</h1>
+  <img src="./assets/images/photo.png" width="120" alt="cards Logo">
+  <h1>cards | Product Cards</h1>
   <p> Built with HTML & CSS</p>
   
   ![GitHub stars](https://img.shields.io/badge/stars-⭐-yellow)
